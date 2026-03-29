@@ -81,7 +81,7 @@ strip-ansi-escapes = "0.2.0"
 
 # Unix dependencies
 [target.'cfg(unix)'.dependencies]
-tar = "0.4.40"
+tar = "0.4.45"
 flate2 = "1.0"
 sudo = "0.6.0"
 
